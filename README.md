@@ -67,7 +67,7 @@ titanic-logistic-regression/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/titanic-logistic-regression.git
+git clone https://github.com/idli-hub/titanic-logistic-regression.git
 cd titanic-logistic-regression
 ```
 
@@ -255,16 +255,6 @@ The Streamlit app provides an interactive interface for:
 streamlit run titanic_streamlit_app.py
 ```
 
-### Deploying to Streamlit Cloud
-
-1. Push your code to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Click "New app"
-4. Select your repository
-5. Set main file: `titanic_streamlit_app.py`
-6. Click "Deploy"
-
-Your app will be live at: `https://yourusername-titanic-app.streamlit.app`
 
 ## 📈 Key Insights
 
@@ -455,10 +445,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Project Maintainer**: Your Name
-- Email: your.email@example.com
+**Project Maintainer**: Vedant 
+- Email: vedantkhangan9@gmail.com
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@idli-hub](https://github.com/idli-hub)
 
 ## 🌟 Star This Repository
 
